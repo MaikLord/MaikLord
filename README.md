@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 ![MaikLord's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaikLord&show_icons=true&theme=dracula)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaikLord&repo=github-readme-stats)](https://github.com/MaikLord/github-readme-stats)
+
+
