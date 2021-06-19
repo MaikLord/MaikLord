@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![MaikLord's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaikLord&show_icons=true&theme=radical)
+![MaikLord's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaikLord&show_icons=true&theme=dracula)
 
