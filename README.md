@@ -13,7 +13,7 @@
 ###### *__NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats__*
 <a href="#"> <img onclick="return false;" src="https://cdn.freebiesupply.com/logos/thumbs/2x/sass-1-logo.png" width="30px">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" width="30px">  <img src="https://pcodinomebzero.neocities.org/Imagens/javascript1.png" width="30px">  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="30px">  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" width="30px">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width="30px"> </a>
 
-#### My Behance 🏝️
+#### My Behance 🏝️  [Lucas José/MaikLord](https://www.behance.net/maiklord) 🖊 
 
 
    
