@@ -4,16 +4,14 @@
 
 ##### Actually i'm work on [ClearSale](https://br.clear.sale/) 🧡 But i'm not Developer 😞 (Not yet) 
 
-#### I'm want to make me *clothing store* for my brand:
-                                     Honker®
-
-                                <a href="#"><img src="https://i.ibb.co/f1wJ9ZD/adaptive-icon.png" width="100px"></a>
                                 
 #### Languages and Tools:
 ###### *__NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats__*
 <a href="#"> <img onclick="return false;" src="https://cdn.freebiesupply.com/logos/thumbs/2x/sass-1-logo.png" width="30px">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" width="30px">  <img src="https://pcodinomebzero.neocities.org/Imagens/javascript1.png" width="30px">  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="30px">  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" width="30px">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width="30px"> </a>
 
 #### My Behance 🏝️  [Lucas José/MaikLord](https://www.behance.net/maiklord) 🖊 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaikLord&layout=compact)](https://github.com/Maiklord/github-readme-stats)
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" integrity="sha384-SZXxX4whJ79/gErwcOYf+zWLeJdY/qpuqC4cAa9rOGUstPomtqpuNWT9wdPEn2fk" crossorigin="anonymous">
 
 
    
@@ -38,8 +36,6 @@ Here are some ideas to get you started:
 ![MaikLord's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaikLord&show_icons=true&theme=slateorange) 
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaikLord&layout=compact)](https://github.com/Maiklord/github-readme-stats)
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" integrity="sha384-SZXxX4whJ79/gErwcOYf+zWLeJdY/qpuqC4cAa9rOGUstPomtqpuNWT9wdPEn2fk" crossorigin="anonymous">
 
 
 
