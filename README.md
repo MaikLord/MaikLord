@@ -10,8 +10,9 @@
 <a href="#"> <img onclick="return false;" src="https://cdn.freebiesupply.com/logos/thumbs/2x/sass-1-logo.png" width="30px">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" width="30px">  <img src="https://pcodinomebzero.neocities.org/Imagens/javascript1.png" width="30px">  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="30px">  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" width="30px">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width="30px"> </a>
 
 #### My Behance 🏝️  [Lucas José/MaikLord](https://www.behance.net/maiklord) 🖊 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaikLord&layout=compact)](https://github.com/Maiklord/github-readme-stats)
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" integrity="sha384-SZXxX4whJ79/gErwcOYf+zWLeJdY/qpuqC4cAa9rOGUstPomtqpuNWT9wdPEn2fk" crossorigin="anonymous">
+<a href="https://github.com/MaikLord">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiklord&theme=dracula&hide_langs_below=1" />
+</a>
 
 
    
