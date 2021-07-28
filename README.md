@@ -1,42 +1,30 @@
-### Hi there :space_invader: - Welcome to me GitHub 🥇
+### <img src="https://img.shields.io/static/v1?label=Overview&message=MaikLord&color=f8efd4&style=for-the-badge&logo=GitHub">
 
-#### my name is Lucas but my nickname is __MaikLord__ and I'm *studying* to become a **_Front-end Programmer!_**
+#### Meu nome é Lucas mas meu apelido na Web é : __MaikLord__, e eu estou *Estudando* para ser um **_Front-end Programmer!_**
 
-##### Actually i'm work on [ClearSale](https://br.clear.sale/) 🧡 But i'm not Developer 😞 (Not yet) 
-
-                                
+##### Atualmente eu estou trabalhando na [ClearSale](https://br.clear.sale/) 🧡 Mas eu não sou desenvolvedor 😞 (Ainda) <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+                            
 #### Languages and Tools:
-###### *__NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats__*
-<a href="#"> <img onclick="return false;" src="https://cdn.freebiesupply.com/logos/thumbs/2x/sass-1-logo.png" width="30px">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" width="30px">  <img src="https://pcodinomebzero.neocities.org/Imagens/javascript1.png" width="30px">  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="30px">  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" width="30px">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width="30px"> </a>
+<img onclick="return false;" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img onclick="return false;" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img onclick="return false;" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"><img onclick="return false;" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><img onclick="return false;" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img onclick="return false;" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"><img onclick="return false;" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"><img onclick="return false;" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"><img onclick="return false;" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 
-#### My Behance 🏝️  [Lucas José/MaikLord](https://www.behance.net/maiklord) 🖊 
-<a href="https://github.com/MaikLord">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiklord&theme=dracula&hide_langs_below=1" />
-</a>
+#### Meu Behance 🏝️  [MaikLord](https://www.behance.net/maiklord) 🖊 
+<p align="left">
+  Entre em contato Comigo pelos links abaixo: ⤵️
+</p>
 
+<p align="left">
+  <a href="mailto:lucas32150@hotmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=" /></a>
 
-   
+  <a href="https://www.linkedin.com/in/lucas-js2/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
+  <a href="https://api.whatsapp.com/send?phone=5511961703187&text=Ol%C3%A1%20Lucas%20Te%20achei%20pelo%20Github%2C%20Que%20tal%20conversarmos%20um%20pouco%20%3F" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
+  <a href="https://www.facebook.com/lucas.jose.32150123" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
 
-<!--
-**MaikLord/MaikLord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![MaikLord's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaikLord&show_icons=true&theme=slateorange) 
-<br>
-<br>
-
-
-
+  <a href="https://www.instagram.com/lucas_js2/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+</p>  
