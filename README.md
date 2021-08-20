@@ -1,4 +1,9 @@
-### <img src="https://img.shields.io/static/v1?label=Overview&message=MaikLord&color=f8efd4&style=for-the-badge&logo=GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=MaikLord&color=f8efd4&style=for-the-badge&logo=GitHub">
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+Pessoas+👋;Bem vindo ao meu Github;Espero+que+goste+dele;E+me+dê+umas+Estrelas+♥;Entre+em+contato;Os+Links+Estão+Aqui+Embaixo;Abraços+♥ !&center=true&size=25">
+  </a>
+</h1>
 
 #### Meu nome é Lucas mas meu apelido na Web é : __MaikLord__, e eu estou *Estudando* para ser um **_Front-end Programmer!_**
 
