@@ -1,7 +1,7 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=MaikLord&color=f8efd4&style=for-the-badge&logo=GitHub">
 <h1 align="center">
   <a href="https://api.whatsapp.com/send?phone=5511961703187&text=Ol%C3%A1%20Lucas%20Gostei%20de%20voc%C3%AA%2C%20Vamso%20conversar%20%3F" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+Pessoas+👋;Bem vindo ao meu Github;Espero+que+goste+dele;E+me+dê+umas+Estrelas+♥;Entre+em+contato;Os+Links+Estão+Aqui+Embaixo;Abraços+♥ !&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+Pessoas+👋;Bem vindos ao meu Github;Espero+que+goste+dele;E+me+dê+umas+Estrelas+♥;Entre+em+contato;Os+Links+Estão+Aqui+Em+baixo;Abraços+♥ !&center=true&size=25">
   </a>
 </h1>
 
