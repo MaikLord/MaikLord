@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-#### Meu nome é Lucas mas meu apelido na Web é : __MaikLord__, e eu estou *Estudando* para ser um **_Front-end Programmer!_**
+#### Meu nome é Lucas mas meu apelido na Web é : __Maik__, e eu estou *Estudando* para ser um **_Front-end Programmer!_**
 
 ##### Atualmente eu estou trabalhando na [ClearSale](https://br.clear.sale/) Mas eu não sou desenvolvedor 😞 (Ainda) <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
                             
