@@ -1,5 +1,5 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=MaikLord&color=f8efd4&style=for-the-badge&logo=GitHub">
-#### My name is Lucas but my web nickname is : __Maik__, and I'm *Studying* to be a **_Front-end Programmer!_**
+My name is Lucas but my web nickname is : Maik, and I'm Studying to be a Front-end Programmer!
 
 ##### Currently I am working as a PJ on Kosmo Studio and I have my MEI <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
                             
