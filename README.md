@@ -1,13 +1,7 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=MaikLord&color=f8efd4&style=for-the-badge&logo=GitHub">
-<h1 align="center">
-  <a href="https://api.whatsapp.com/send?phone=5511961703187&text=Ol%C3%A1%20Lucas%20Gostei%20de%20voc%C3%AA%2C%20Vamso%20conversar%20%3F" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+Pessoas+👋;Bem vindos ao meu Github;Espero+que+goste+dele;E+me+dê+umas+Estrelas+♥;Entre+em+contato;Os+Links+Estão+Aqui+Em+baixo;Abraços+♥ !&center=true&size=25">
-  </a>
-</h1>
+#### My name is Lucas but my web nickname is : __Maik__, and I'm *Studying* to be a **_Front-end Programmer!_**
 
-#### Meu nome é Lucas mas meu apelido na Web é : __Maik__, e eu estou *Estudando* para ser um **_Front-end Programmer!_**
-
-##### Atualmente eu estou Fazendo Sites Institucionais e Landing Pages como Freelancer e Tenho minha MEI <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+##### Currently I am working as a PJ on Kosmo Studio and I have my MEI <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
                             
 #### Languages and Tools (Learning):
 <img onclick="return false;" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img onclick="return false;" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img onclick="return false;" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"><img onclick="return false;" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><img onclick="return false;" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img onclick="return false;" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"><img onclick="return false;" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"><img onclick="return false;" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"><img onclick="return false;" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
