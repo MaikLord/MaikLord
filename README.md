@@ -1,5 +1,5 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=MaikLord&color=f8efd4&style=for-the-badge&logo=GitHub">
-My name is Lucas but my web nickname is : Maik, and I'm Studying to be a Front-end Programmer
+My name is Lucas, I'm a Front-end Programmer Junior on Kosmo Studio.
 
 ##### Currently I am working on Kosmo Studio <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
                             
